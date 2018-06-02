@@ -7,3 +7,7 @@
                `(def ~variable
                   (str (quote ~variable))))]
     `(do ~@defs)))
+
+(defmacro create-a-function
+  [l]
+  `(defn ~l [o#] (inc o#)))

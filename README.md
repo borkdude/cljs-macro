@@ -1,7 +1,9 @@
 
 # cljs-macro
 
-Example of usage of a macro in ClojureScript.
+Example of usage of a macro in ClojureScript. Answer to
+[this](https://stackoverflow.com/questions/50653467/clojurescript-macro-and-name-mangling)
+Stackoverflow question.
 
 ## Build
 
